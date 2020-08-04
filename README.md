@@ -1,16 +1,16 @@
-### Hi there 👋
+## 😞 Status
 
-<!--
-**xkcoding/xkcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+待业，找工作中，你愿意招安我吗？
 
-Here are some ideas to get you started:
+## 🌐 找到我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 个人博客：https://xkcoding.com
+- 知乎专栏：https://www.zhihu.com/column/xkcoding
+- 微信：syk941020
+- 微信公众号：xkcoding小凯扣丁
+
+![微信公众号](https://xkcoding.com/images/xkcoding_qrcode.jpg)
+
+## 💚 Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xkcoding&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
