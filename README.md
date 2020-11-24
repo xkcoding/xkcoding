@@ -1,6 +1,7 @@
 ## 😉 Status
 
 目前在职，涂鸦智能，欢迎找我内推，可以加我微信细聊噢~
+[查看JD](https://github.com/xkcoding/spring-boot-demo/blob/master/jd.md)
 
 ## 🌐 找到我
 
