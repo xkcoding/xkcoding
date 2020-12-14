@@ -18,9 +18,16 @@
 
 ## 🌐 找到我
 
-<a href="https://xkcoding.com"><img alt="个人博客" src="https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2&message=CodingDiary%20-%20%E4%BB%A3%E7%A0%81%E6%97%A5%E8%AE%B0&color=pink"/></a> <a href="https://www.zhihu.com/column/xkcoding"><img alt="知乎专栏" src="https://img.shields.io/static/v1?label=%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F&message=xkcoding&color=2f86f7"/></a> <a href="#"><img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=syk941020&color=7BB32E&logo=wechat"/></a> <a href="#"><img alt="微信公众号" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7&message=xkcoding%E5%B0%8F%E5%87%AF%E6%89%A3%E4%B8%81&color=7BB32E&logo=wechat"/></a>
+<a href="https://xkcoding.com"><img alt="个人博客" src="https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2&message=CodingDiary%20-%20%E4%BB%A3%E7%A0%81%E6%97%A5%E8%AE%B0&color=pink"/></a> <a href="https://www.zhihu.com/column/xkcoding"><img alt="知乎专栏" src="https://img.shields.io/static/v1?label=%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F&message=xkcoding&color=2f86f7"/></a> <a href="#"><img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=syk941020&color=7BB32E&logo=wechat"/></a>
 
-<img align="center" src="https://xkcoding.com/images/xkcoding_qrcode.jpg" width="200"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center"><img alt="微信公众号" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7&message=xkcoding%E5%B0%8F%E5%87%AF%E6%89%A3%E4%B8%81&color=7BB32E&logo=wechat"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img align="center" src="https://xkcoding.com/images/xkcoding_qrcode.jpg" width="200"/></td>
+  </tr>
+</table>
 
 ## 💚 Stats
 
