@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-![](https://img.shields.io/badge/status-up-brightgreen) ![](https://img.shields.io/badge/%E6%80%A7%E5%88%AB-♂-lightgrey) ![](https://img.shields.io/badge/Relationship-Married-pink) ![](https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=syk941020&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/xkcoding)
+![](https://img.shields.io/badge/status-up-brightgreen) ![](https://img.shields.io/badge/%E6%80%A7%E5%88%AB-♂-lightgrey) ![](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-Married-pink) ![](https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=syk941020&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/xkcoding)
 
 ## 😉 Status
 
