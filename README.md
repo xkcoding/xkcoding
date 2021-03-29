@@ -25,7 +25,7 @@
     <td align="center"><img alt="微信公众号" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7&message=xkcoding%E5%B0%8F%E5%87%AF%E6%89%A3%E4%B8%81&color=7BB32E&logo=wechat"/></td>
   </tr>
   <tr>
-    <td align="center"><img align="center" src="https://xkcoding.com/images/xkcoding_qrcode.jpg" width="200"/></td>
+    <td align="center"><img align="center" src="https://xkcoding.com/images/qrcode_for_xkcoding.jpg" width="200"/></td>
   </tr>
 </table>
 
