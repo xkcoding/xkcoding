@@ -2,7 +2,7 @@
 
 <table align="right" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://static.xkcoding.com/blog/2021-02-20-me.JPG" width="200"/> </td>
+    <td align="center"><img src="https://static.xkcoding.com/blog/2021-02-20-me.jpg" width="200"/> </td>
   </tr>
   <tr>
     <td align="center">拍摄于2021.02.20</td>
