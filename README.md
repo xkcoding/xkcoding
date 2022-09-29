@@ -11,9 +11,27 @@
 
 ![](https://img.shields.io/badge/status-%E5%B7%B2%E7%A6%BB%E8%81%8C-brightgreen) ![](https://img.shields.io/badge/%E6%80%A7%E5%88%AB-♂-lightgrey) ![](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-Married-pink) ![](https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=syk941020&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/xkcoding)
 
-## 😉 Status
+## 😉 自我评价
 
-目前已离职，求坑求收留~
+- 6 年 Java 开发经验，有扎实的技术功底，深入阅读过多个开源项目的源码。
+- 曾负责涂鸦智能营销平台、涂鸦人群 DMP 系统、涂鸦埋点平台的架构设计以及研发，目前营销平台支持在 5 小时内对 5000W 用户进行触达，DMP 系统支持千万级人群的圈选功能，埋点平台国区目前每天大概 2 亿埋点数据写入（美区近 40 亿/天）。
+- 热爱开源
+  - spring-boot-demo 开源项目的作者，目前拥有 27K 关注和 10K Fork，该项目主要用来帮助深入学习并实战 Spring Boot。
+  - JustAuth 开源项目的主要贡献者，目前拥有 14K 关注，该项目整合了几乎所有市面上的第三方登录平台，同时支持自定义配置接入公司内部的 SSO 系统。
+  - 曾为 Nacos、Hutool 等开源项目提交 PR，参与开源共建。
+  - 作为 2021 中国开源之夏的导师，指导学生完成开源任务，促进国内优秀开源软件社区的蓬勃发展。
+
+
+## 开源项目
+
+
+<a href="https://github.com/xkcoding/spring-boot-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xkcoding&repo=spring-boot-demo&theme=dracula&show_owner=true" />
+</a>
+<a href="https://github.com/justauth/JustAuth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justauth&repo=JustAuth&theme=dracula&show_owner=true" />
+</a>
+
 
 ## 🌐 找到我
 
@@ -30,4 +48,4 @@
 
 ## 💚 Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xkcoding&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xkcoding&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
